@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.0215976b.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.0215976b.js.map": "/static/js/main.0215976b.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/case-redux-toolkit/static/css/main.073c9b0a.css",
+    "main.js": "/case-redux-toolkit/static/js/main.e7e63a16.js",
+    "static/js/787.28cb0dcd.chunk.js": "/case-redux-toolkit/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/case-redux-toolkit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/case-redux-toolkit/index.html",
+    "main.073c9b0a.css.map": "/case-redux-toolkit/static/css/main.073c9b0a.css.map",
+    "main.e7e63a16.js.map": "/case-redux-toolkit/static/js/main.e7e63a16.js.map",
+    "787.28cb0dcd.chunk.js.map": "/case-redux-toolkit/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0215976b.js"
+    "static/js/main.e7e63a16.js"
   ]
 }
