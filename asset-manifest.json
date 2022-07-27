@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/case-redux-toolkit/static/js/main.705ecd5c.js",
+    "main.js": "/case-redux-toolkit/static/js/main.a21aa021.js",
     "index.html": "/case-redux-toolkit/index.html",
-    "main.705ecd5c.js.map": "/case-redux-toolkit/static/js/main.705ecd5c.js.map"
+    "main.a21aa021.js.map": "/case-redux-toolkit/static/js/main.a21aa021.js.map"
   },
   "entrypoints": [
-    "static/js/main.705ecd5c.js"
+    "static/js/main.a21aa021.js"
   ]
 }
